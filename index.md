@@ -15,5 +15,5 @@ tools.
 - [Theoretical Basis](theoretical_basis.md)
 - [Discovery of Cygnus X-1 Through the Accretion Disk](accretion_disk.md)
 - [Detection Using Gravitational Waves](gravitational_waves.md)
-- [Direct Imagign](direct_imaging.md)
+- [Direct Imaging](direct_imaging.md)
 - [Sources](sources.md)
