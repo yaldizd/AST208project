@@ -1,7 +1,13 @@
 ---
 layout: default
-title: Theoretical Foundations
+title: Inferrence Using Gravitational Waves
 ---
+
+<br>
+
+<br>
+
+<br>
 
 The LIGO and Virgo collaborations detected gravitational waves from black hole mergers. These detections matched predictions from Einstein's equations, confirming the existence of black holes.
 
