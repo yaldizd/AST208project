@@ -2,9 +2,6 @@ theme: minimal
 title: Discovery of Black Holes
 description: AST 207 Evidence Project
 author: Doruk Efe Yaldiz
-header_pages:
-  - index.md
-  - theoretical_basis.md
 markdown: kramdown
 kramdown:
   math_engine: mathjax
