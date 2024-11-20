@@ -1,3 +1,8 @@
+---
+layout: default
+title: Theoretical Foundations
+---
+
 The first hints of black holes came from the study of binary star systems. Cygnus X-1, discovered in 1964, was identified as a potential black hole due to its intense X-ray emissions. These emissions arise as matter spirals into the black hole, heating up and radiating energy.
 
 \paragraph{Accretion Disk Theory.}
