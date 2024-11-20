@@ -24,4 +24,4 @@ This project focuses on the scientific evidence that shows black holes exist, bo
 - [Direct Imaging](direct_imaging.md)
 - [Sources](sources.md)
 
-![Interstellar Black Hole Scene](/assets/interstellar.png)
+![Interstellar Black Hole Scene](/assets/css/interstellar.png)
