@@ -14,20 +14,9 @@
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
     </header>
-    <div class="container">
-        <aside class="sidebar">
-            <nav>
-                <ul>
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/theoretical_basis' | relative_url }}">Theoretical Basis</a></li>
-                    <!-- Add more links here as needed -->
-                </ul>
-            </nav>
-        </aside>
-        <main class="content">
-            {{ content }}
-        </main>
-    </div>
+    <main>
+        {{ content }}
+    </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
     </footer>
