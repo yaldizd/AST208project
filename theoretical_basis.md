@@ -1,7 +1,3 @@
-## Introduction
-
-Black holes, regions of spacetime with gravity so intense that nothing can escape, were first predicted by theoretical work rather than direct observation. Their discovery and study involve a combination of mathematics, physics, and increasingly sophisticated observational tools.
-
 ## Theoretical Foundations
 ### Newtonian Gravity and the Concept of Escape Velocity
 Before Einstein's theory, the concept of an object with gravity so strong that light cannot escape was first considered in the 18th century. Using Newtonian mechanics:
