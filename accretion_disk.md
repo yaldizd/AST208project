@@ -13,7 +13,7 @@ In 1964, a rocket carrying X-ray Geiger counters was launched. These Geiger coun
 
 ![Cygnus X-1 X-ray Graph](/assets/css/cyg_x1.png)
 
-<img src="assets/css/cyg_x1" alt="Cygnus X-1 X-ray Graph" width="200"/>
+<img src="assets/css/cyg_x1.png" alt="Cygnus X-1 X-ray Graph" class="scaled-image"/>
 
 The paper wasn't too confident in their findings and had many other objects mentioned alongside Cyg X-1, but this particular system kept being observed and is considered the first discovered black hole.
 
