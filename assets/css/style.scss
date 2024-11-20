@@ -1,3 +1,9 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+
+.scaled-image {
+    width: 200px;
+    height: auto; /* Keeps aspect ratio */
+}
