@@ -1,1 +1,3 @@
-# yaldizd.github.io
+## Pages
+
+- [Theoretical Basis](theoretical_basis.md)
