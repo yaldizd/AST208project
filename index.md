@@ -3,6 +3,12 @@ layout: default
 title: Discovery of Black Holes
 ---
 
+<br>
+
+<br>
+
+<br>
+
 ## Introduction
 
 black hole, cosmic body of extremely intense gravity from which nothing, not even light, can escape. A black hole can be formed by the death of a massive star. When such a star has exhausted the internal thermonuclear fuels in its core at the end of its life, the core becomes unstable and gravitationally collapses inward upon itself, and the star’s outer layers are blown away. The crushing weight of constituent matter falling in from all sides compresses the dying star to a point of zero volume and infinite density called the singularity.
