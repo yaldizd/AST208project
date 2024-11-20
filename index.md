@@ -1,3 +1,8 @@
+---
+layout: default
+title: Discovery of Black Holes
+---
+
 ## Introduction
 
 Black holes, regions of spacetime with gravity so intense that nothing can escape, were first
