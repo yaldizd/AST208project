@@ -2,6 +2,7 @@
 layout: default
 title: Theoretical Foundations
 ---
+$$
 
 <br>
 
@@ -15,15 +16,15 @@ Before Einstein’s theory, the concept of an object with gravity so strong that
 \[
 v_{\text{escape}} = \sqrt{\frac{2GM}{R}}
 \]
-where \( v_{\text{escape}} \) is the escape velocity, \( G \) is the gravitational constant, \( M \) is the mass, and \( R \) is the radius of the object. If \( v_{\text{escape}} \geq c \) (the speed of light), even light cannot escape. For the Sun, this occurs when \( R \) is approximately 3 km.
+where \[ v_{\text{escape}} \] is the escape velocity, \[G\] is the gravitational constant, \[M\] is the mass, and \[R\] is the radius of the object. If \[ v_{\text{escape}} \geq c \] (the speed of light), even light cannot escape. For the sake of perspective, if we consider the Sun, this occurs when \[ R \] is approximately 3 km.
 
 ### Einstein’s General Relativity (1915)
 Albert Einstein’s field equations describe gravity as the curvature of spacetime caused by mass-energy:
-\[
+$$
 R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}
-\]
+$$
 where:
-- \( R_{\mu\nu} \): Ricci curvature tensor
+- $ R_{\mu\nu} $: Ricci curvature tensor
 - \( g_{\mu\nu} \): Metric tensor
 - \( R \): Ricci scalar
 - \( \Lambda \): Cosmological constant
