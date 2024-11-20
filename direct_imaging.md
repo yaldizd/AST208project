@@ -3,6 +3,11 @@ layout: default
 title: Theoretical Foundations
 ---
 
+<br>
+
+<br>
+
+<br>
 The Event Horizon Telescope (EHT) captured the first image of a black hole in the galaxy M87. The bright ring corresponds to photons orbiting the black hole's event horizon, and its size agrees with the Schwarzschild radius calculated using:
 \[
 \theta = \frac{R_s}{D}
