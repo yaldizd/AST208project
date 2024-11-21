@@ -50,8 +50,8 @@ Where $$h$$ is the gravitational-wave strain amplitude. This differential length
 <br>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <a href="/accretion_disk.md" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
-  <a href="/direct_imaging.md" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
+  <a href="/accretion_disk.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
+  <a href="/direct_imaging.html" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
 </div>
 
 <br>
