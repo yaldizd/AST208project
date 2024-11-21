@@ -11,7 +11,11 @@ title: The Discovery of Cygnus X-1 via its Accretion Disk
 
 In 1964, a rocket carrying X-ray Geiger counters was launched. These Geiger counters conducted a survey of a 8.4° patch of the night sky near the galactic core, in the 1-15 Å range. The 1965 paper analyzing the survey by Bowyer et. al. was the first observational evidence for the existance of black holes. The object Cygnus X-1, located at $$\alpha_{2000} = 19^h 58^m 22^s$$, $$\delta_{2000} = +35° 12' 06''$$, emitted X-rays best explained by a black hole accretion disk being present there.
 
-<img src="/assets/css/cyg_x1.png" alt="Cygnus X-1 X-ray Graph" width="500"/>
+<figure style="text-align: center;">
+  <img src="/assets/css/cyg_x1.png" alt="Cygnus X-1 X-ray Graph" width="500"/>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 1: Cygnus X-1 X-Ray Graph</figcaption>
+</figure>
+
 
 The paper wasn't too confident in their potential black hole identifications and had many other objects mentioned alongside Cyg X-1, but this particular system kept being observed in the decades to come, and is now considered the first discovered black hole. In his 1988 book 'A Brief History of Time', Stephen Hawking wrote:
 
