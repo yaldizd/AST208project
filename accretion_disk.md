@@ -29,7 +29,7 @@ $$
 f(M) = \frac{M_2^3 \ \sin^3i}{(M_1+M_2)^2} = 0.16
 $$
 
-Requires that the compact object mass, $$M_1 > 12 M_{\odot}$$. Since this mass is far too high to belong to a neutron star, astrophysicists argued that the system Cyg X-1 must contain a black hole.
+Requires that the compact object mass, $$M_1 > 12 M_{\odot}$$. Since this mass is far too high to belong to a neutron star, astrophysicists correctly argued that the system Cyg X-1 must contain a black hole.
 
 <br>
 
