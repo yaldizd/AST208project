@@ -24,7 +24,7 @@ $$
 \mathcal{M} = \frac{(m_1m_2)^{3/5}}{(m_1 + m_2)^{1/5}} = \frac{c^3}{G}\left[ \frac{5}{96}\pi^{-8/3}f^{-11/3}\dot{f} \right]^{3/5}
 $$
 
-Where $$f$$ is the frequency observed and $$\dot{f}$$ is its time derivative. The chirp mass $$\mathcal{M}$$ describes the evolution of a compact binary system. From the figure above, a chirp mass of $$\mathcal{M} = 30 M_\odot$$ was obtained, which implies $$M = m_1 + m_2 > 70 M_\odot$$.
+Where $$f$$ is the frequency observed and $$\dot{f}$$ is its time derivative. The chirp mass $$\mathcal{M}$$ describes the evolution of a compact binary system. Fitting the frequency to Figure 3, a chirp mass of $$\mathcal{M} = 30 M_\odot$$ was obtained, which implies $$M = m_1 + m_2 > 70 M_\odot$$.
 
 ## The Detectors
 
