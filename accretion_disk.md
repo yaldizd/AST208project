@@ -34,8 +34,8 @@ Requires that the compact object mass, $$M_1 > 12 M_{\odot}$$. Since this mass i
 <br>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <a href="/theoretical_basis.md" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
-  <a href="/gravitational_waves.md" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
+  <a href="/theoretical_basis.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
+  <a href="/gravitational_waves.html" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
 </div>
 
 <br>
