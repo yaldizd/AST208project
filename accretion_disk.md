@@ -32,3 +32,10 @@ $$
 Requires that the compact object mass, $$M_1 > 12 M_{\odot}$$. Since this mass is far too high to belong to a neutron star, astrophysicists argued that the system Cyg X-1 must contain a black hole.
 
 <br>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <a href="/theoretical_basis.md" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
+  <a href="/gravitational_waves.md" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
+</div>
+
+<br>
