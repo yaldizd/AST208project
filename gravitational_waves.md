@@ -9,7 +9,9 @@ title: Inferrence Using Gravitational Waves
 
 <br>
 
-The LIGO and Virgo collaborations detected gravitational waves from black hole mergers. These detections matched predictions from Einstein's equations, confirming the existence of black holes.
+On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time. The waves were produced by a binary black hole merger, the first one ever observed.
+
+
 
 ## Waveform Models
 Gravitational waves are modeled using the Kerr metric for rotating black holes:
