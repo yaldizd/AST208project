@@ -27,7 +27,7 @@ Perhaps the most important evidence that boosted the certainty Hawking mentions 
 
 <figure style="text-align: center;">
   <img src="/assets/css/cyg_rotation.png" alt="Periodic Rotation of the Blue Supergiant HDE 226 868" width="500"/>
-  <figcaption style="margin-top: 5px; font-style: italic;">Fig 1: Radial Velocituy of the Blue Supergiant HDE 226 868 Over a 5.6 Day Period</figcaption>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 2: Radial Velocituy of the Blue Supergiant HDE 226 868 Over a 5.6 Day Period</figcaption>
 </figure>
 
 Using the velocity variation in the graph, it is possible to estimate the masses of the objects. The mass function value,
