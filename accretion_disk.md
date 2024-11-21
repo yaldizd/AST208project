@@ -21,7 +21,7 @@ The paper wasn't too confident in their potential black hole identifications and
 
 >I have a bet with Kip Thorne of the California Institute of Technology that in fact Cygnus X-1 does not contain a black hole! This is a form of insurance policy for me. I have done a lot of work on black holes, and it would all be wasted if it turned out that black holes do not exist. But in that case, I would have the consolation of winning my bet, which would bring me four years of the magazine Private Eye. If black holes do exist, Kip will get one year of Penthouse. When we made the bet, in 1975, we were 80 percent certain that Cygnus was a black hole. By now, I would say that we are about 95 percent certain, but the bet has yet to be settled.
 
-We will have a run-through of some important steps which boosted the certainty Hawking mentions. The binary system Cygnus X-1 has a black hole and a blue supergiant orbiting it. Bolton's 1972 publication used spectral redshift measurements of the BSG and the accretion disk over time to confirm that Cyg X-1 is a binary system, and plotted a velocity-phase graph.
+Perhaps the most important evidence that boosted the certainty Hawking mentions came in 1972. The binary system Cygnus X-1 has a black hole and a blue supergiant orbiting it. Charles Thomas Bolton used spectral redshift measurements of the BSG and the accretion disk over time to confirm that Cyg X-1 is a binary system, and plotted a velocity-phase graph.
 
 Using the velocity variation in the graph, it is possible to estimate the masses of the objects. The mass function value,
 
