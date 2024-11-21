@@ -26,11 +26,11 @@ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{
 $$
 
 where:
-- $$ R_{\mu\nu} $$: Ricci curvature tensor
-- $$ g_{\mu\nu} $$: Metric tensor
-- $$ R $$: Ricci scalar
-- $$ \Lambda $$: Cosmological constant
-- $$ T_{\mu\nu} $$: Energy-momentum tensor
+- $$ R_{\mu\nu} $$ : Ricci curvature tensor
+- $$ g_{\mu\nu} $$ : Metric tensor
+- $$ R $$ : Ricci scalar
+- $$ \Lambda $$ : Cosmological constant
+- $$ T_{\mu\nu} $$ : Energy-momentum tensor
 
 These equations predict phenomena like time dilation, the warping of spacetime, and most important for us, the formation of black holes.
 
@@ -48,5 +48,11 @@ r_s = \frac{2GM}{c^2}
 $$
 
 For an object smaller than $$ r_s $$, its escape velocity exceeds $$ c $$, forming a black hole. The Schwarzschild Metric has 2 singularities: one at $$ r=0 $$ and one at the event horizon $$ r = r_s $$. Although physicists agreed that the singularity at $$ r = 0 $$ was a 'genuine' singularity which was supposed to be there, there was much debate over the meaning of the singularity at $$ r = r_s $$. It took until the 1960s to come up with a rigorous mathematical proof that the $$ r = r_s $$ singularity is the event horizon, which is a boundary in spacetime that can only be crossed in one direction.
+
+<br>
+
+<div style="display: flex; justify-content: flex-end; margin-top: 20px;">
+  <a href="/accretion_disk" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
+</div>
 
 <br>
