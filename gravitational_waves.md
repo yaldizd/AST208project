@@ -12,7 +12,7 @@ title: Inferrence Using Gravitational Waves
 ## First LIGO Results
 On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time. The waves were produced by a binary black hole merger, the first one ever observed.
 
-<img src="/assets/css/cyg_x1.png" alt="Cygnus X-1 X-ray Graph" width="500"/>
+<img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
 
 The most plausible explanation for the evolution graph above is two masses, $$m_1$$ and $$m_2$$, spiraling in toward each other and producing gravitational waves.
 Such an interaction can be modeled by the chirp mass equation,
@@ -28,7 +28,7 @@ Where $$f$$ is the frequency observed and $$\dot{f}$$ is its time derivative. Th
 The two LIGO sites in Hanford, WA and Livingston, LA operate incredibly precise Michealson inferometers. They are able to measure the strain effects of gravitational waves as a difference in length for two orthogonal arms. The arms are seperated by
 
 $$
-Lx ¼ Ly ¼ L ¼ 4 km
+L_x = L_y = L = 4 \text{ km}
 $$
 
 And a passing gravitational wave alters the arm lengths such that the measured difference is 
@@ -39,7 +39,6 @@ $$
 
 Where $$h$$ is the gravitational-wave strain amplitude. This differential length variation effects the phase difference between two light fields which then passes through a beam splitter and gets detected by a photodetector.
 
-$$
-ds^2 = -\left(1 - \frac{2GM}{r}\right)dt^2 + \left(1 - \frac{2GM}{r}\right)^{-1}dr^2 + r^2 d\theta^2 + r^2 \sin^2\theta \, d\phi^2
-$$
+<img src="/assets/css/ligo_setup.png" alt="The LIGO Detector Setup" width="500"/>
 
+<br>
