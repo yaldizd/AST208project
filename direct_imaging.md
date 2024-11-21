@@ -14,14 +14,14 @@ Black holes surrounded by transparent emission regions produce a "shadow" due to
 The asymmetry in brightness is explained by relativistic beaming caused by plasma rotating at near-light speeds. The findings aligned with simulations based on general-relativistic magnetohydrodynamics, leading to an estimated black hole mass of $$(6.5 \pm 0.7) \times 10^9 M_\odot$$. These observations once again confirmed the presence of supermassive black holes in galactic centers, and provided insight into this new tool for studying the extreme gravity of black holes.
 
 <div style="text-align: center;">
-  <img src="/assets/css/m87.png" alt="M87" width="500" />
+  <img src="/assets/css/m87.png" alt="M87" width="300" />
   <figcaption style="margin-top: 5px; font-style: italic;">Fig 5: Event Horizon Telescope Image of the Black Hole at the Center of M87</figcaption>
 </div>
 
 Continued EHT imaging over the next few years gave us an image of Sagittarius A*, the supermassive black hole in the center of the Milky Way.
 
 <div style="text-align: center;">
-  <img src="/assets/css/sag_a_star.jpg" alt="Sagittarius A Star" width="500" />
+  <img src="/assets/css/sag_a_star.jpg" alt="Sagittarius A Star" width="400" />
   <figcaption style="margin-top: 5px; font-style: italic;">Fig 5: Event Horizon Telescope Image of Sagittarius A*</figcaption>
 </div>
 
