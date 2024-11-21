@@ -18,6 +18,8 @@ The asymmetry in brightness is explained by relativistic beaming caused by plasm
   <figcaption style="margin-top: 5px; font-style: italic;">Fig 5: Event Horizon Telescope Image of the Black Hole at the Center of M87</figcaption>
 </div>
 
+<br>
+
 Continued EHT imaging over the next few years gave us an image of Sagittarius A*, the supermassive black hole in the center of the Milky Way.
 
 <div style="text-align: center;">
