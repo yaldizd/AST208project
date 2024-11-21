@@ -24,7 +24,7 @@ Continued EHT imaging over the next few years gave us an image of Sagittarius A*
 
 <div style="text-align: center;">
   <img src="/assets/css/sag_a_star.jpg" alt="Sagittarius A Star" width="400" />
-  <figcaption style="margin-top: 5px; font-style: italic;">Fig 5: Event Horizon Telescope Image of Sagittarius A*</figcaption>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 6: Event Horizon Telescope Image of Sagittarius A*</figcaption>
 </div>
 
 <br>
