@@ -12,7 +12,10 @@ title: Inferrence Using Gravitational Waves
 ## First LIGO Results
 On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time. The waves were produced by a binary black hole merger, the first one ever observed.
 
-<img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
+<figure style="text-align: center;">
+  <img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 2: Gravitational Wave Event Observed by LIGO</figcaption>
+</figure>
 
 The most plausible explanation for the evolution graph above is two masses, $$m_1$$ and $$m_2$$, spiraling in toward each other and producing gravitational waves.
 Such an interaction can be modeled by the chirp mass equation,
@@ -41,7 +44,7 @@ Where $$h$$ is the gravitational-wave strain amplitude. This differential length
 
 <div style="text-align: center;">
   <img src="/assets/css/ligo_setup.png" alt="The LIGO Detector Setup" width="500" />
-  <figcaption style="margin-top: 5px; font-style: italic;">Fig 1: The LIGO Detector Setup</figcaption>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 3: The LIGO Detector Setup</figcaption>
 </div>
 
 <br>
