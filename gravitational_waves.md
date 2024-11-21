@@ -14,7 +14,7 @@ On September 24, 2015, a century after Einstein's predictions of general relativ
 
 <figure style="text-align: center;">
   <img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
-  <figcaption style="margin-top: 5px; font-style: italic;">Fig 2: Gravitational Wave Event Observed by LIGO</figcaption>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 3: Gravitational Wave Event Observed by LIGO</figcaption>
 </figure>
 
 The most plausible explanation for the evolution graph above is two masses, $$m_1$$ and $$m_2$$, spiraling in toward each other and producing gravitational waves.
@@ -44,7 +44,7 @@ Where $$h$$ is the gravitational-wave strain amplitude. This differential length
 
 <div style="text-align: center;">
   <img src="/assets/css/ligo_setup.png" alt="The LIGO Detector Setup" width="500" />
-  <figcaption style="margin-top: 5px; font-style: italic;">Fig 3: The LIGO Detector Setup</figcaption>
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 4: The LIGO Detector Setup</figcaption>
 </div>
 
 <br>
