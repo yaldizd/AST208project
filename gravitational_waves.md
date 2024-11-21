@@ -39,6 +39,9 @@ $$
 
 Where $$h$$ is the gravitational-wave strain amplitude. This differential length variation effects the phase difference between two light fields which then passes through a beam splitter and gets detected by a photodetector.
 
-<img src="/assets/css/ligo_setup.png" alt="The LIGO Detector Setup" width="500"/>
+<div style="text-align: center;">
+  <img src="/assets/css/ligo_setup.png" alt="The LIGO Detector Setup" width="500" />
+  <figcaption style="margin-top: 5px; font-style: italic;">Fig 1: The LIGO Detector Setup</figcaption>
+</div>
 
 <br>
