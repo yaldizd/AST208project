@@ -15,7 +15,7 @@ The asymmetry in brightness is explained by relativistic beaming caused by plasm
 
 <br>
 
-Continued EHT imaging over the next few years gave us an image of Sagittarius A*, the supermassive black hole in the center of the Milky Way.
+Continued EHT imaging over the next few years gave us an image of Sagittarius A*, the supermassive black hole in the center of the Milky Way. These images are crucial for learning more about the strong magnetic fields that spiral around the black hole.
 
 <div style="text-align: center;">
   <img src="/assets/css/sag_a_star.jpg" alt="Sagittarius A Star" width="400" />
