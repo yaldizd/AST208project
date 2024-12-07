@@ -3,12 +3,6 @@ layout: default
 title: Theoretical Foundations
 ---
 
-<br>
-
-<br>
-
-<br>
-
 # Direct interferometry
 Black holes surrounded by transparent emission regions produce a "shadow" due to gravitational light bending and photon capture at the event horizon. To study this, the Event Horizon Telescope (EHT), a global array of radio telescopes operating at a wavelength of 1.3 mm, captured the first event-horizon-scale images of the supermassive black hole at the center of galaxy M87. These images from 2019 reveal a bright, asymmetric emission ring with a diameter of $$42 \pm 3$$ microarcseconds, surrounding a central dark region consistent with the predicted shadow of a Kerr black hole (the solution to the Field Equations for a rotating black hole).
 
