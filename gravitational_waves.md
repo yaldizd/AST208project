@@ -5,7 +5,7 @@ title: Inferrence Using Gravitational Waves
 
 # The Detection of Gravitational Waves Produced by Black Holes
 ## First LIGO Results
-On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time. The waves were produced by a binary black hole merger, the first one ever observed.
+On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time [5]. The waves were produced by a binary black hole merger, the first one ever observed.
 
 <figure style="text-align: center;">
   <img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
@@ -23,11 +23,11 @@ Where $$f$$ is the frequency observed and $$\dot{f}$$ is its time derivative. Th
 
 ## Why do we have LIGO?
 
-The main benefit of building a gravitational wave observatory is that it offers a method of detection that is independent of light. While photons can be absorbed, reflected, or refracted; gravitational waves don't interact with matter as much. Therefore they can travel long distances without losing any information about the source of the event. We can have a second, more noise-free method of detection for deep space events thanks to LIGO.
+The main benefit of building a gravitational wave observatory is that it offers a method of detection that is independent of light. While photons can be absorbed, reflected, or refracted; gravitational waves don't interact with matter as much. Therefore they can travel long distances without losing any information about the source of the event. We can have a second, more noise-free method of detection for deep space events thanks to LIGO [6].
 
 ## The Detectors
 
-The two LIGO sites in Hanford, WA and Livingston, LA operate incredibly precise Michealson inferometers. They are able to measure the strain effects of gravitational waves as a difference in length for two orthogonal arms. The arms are seperated by
+The two LIGO sites in Hanford, WA and Livingston, LA operate incredibly precise Michealson inferometers [5]. They are able to measure the strain effects of gravitational waves as a difference in length for two orthogonal arms. The arms are seperated by
 
 $$
 L_x = L_y = L = 4 \text{ km}
