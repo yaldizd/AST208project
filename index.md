@@ -3,9 +3,9 @@ layout: default
 title: Discovery of Black Holes
 ---
 
-<br>
-
-<br>
+# Discovery of Black Holes
+## AST207 Evidence Project
+## Doruk Efe Yaldiz
 
 <br>
 
