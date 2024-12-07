@@ -6,32 +6,5 @@
 .scaled-image {
     width: 100px;
     height: auto; /* Keeps aspect ratio */
-}
 
-/* Add these new styles below */
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-header {
-    background-color: #f4f4f4;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-main {
-    flex: 1; /* Fills the remaining space between header and footer */
-    padding: 20px;
-}
-
-footer {
-    background-color: #f4f4f4;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
