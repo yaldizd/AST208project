@@ -4,8 +4,8 @@ title: Discovery of Black Holes
 ---
 
 # Discovery of Black Holes
-## AST207 Evidence Project
-## Doruk Efe Yaldiz
+### AST207 Evidence Project
+### Doruk Efe Yaldiz
 
 <br>
 
