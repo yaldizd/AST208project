@@ -5,8 +5,7 @@ title: Discovery of Black Holes
 
 ## Sources
 
-
-
+{% bibliography %}
 
 <br>
 
