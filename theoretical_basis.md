@@ -31,7 +31,7 @@ where:
 These equations predict phenomena like time dilation, the warping of spacetime, and most important for us, the formation of black holes.
 
 ## Schwarzschild Solution (1916)
-Karl Schwarzschild provided the first exact solution to Einstein’s equations for a non-rotating, spherically symmetric massive body. The same solution was again independently found by Johannes Droste, also in 1916. This solution, called the Schwarzschild metric, has the form:
+Karl Schwarzschild provided the first exact solution to Einstein’s equations for a non-rotating, spherically symmetric massive body [1]. The same solution was again independently found by Johannes Droste, also in 1916. This solution, called the Schwarzschild metric, has the form:
 
 $$
 ds^2 = c^2d\tau^2 = \left( 1 - \frac{r_s}{r} \right)c^2dt^2 - \left( 1 - \frac{r_s}{r} \right)^{-1}dr^2 - r^2d\theta^2 - r^2\sin^2\theta d\phi^2
