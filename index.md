@@ -21,6 +21,7 @@ This project focuses on the scientific evidence that shows black holes exist, bo
 - [Discovery of Cygnus X-1 Through the Accretion Disk](accretion_disk.md)
 - [Detection Using Gravitational Waves](gravitational_waves.md)
 - [Direct Imaging](direct_imaging.md)
+- [Assessment](assessment.md)
 - [Sources](sources.md)
 
 ![Interstellar Black Hole Scene](/assets/css/interstellar.png)
