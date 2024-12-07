@@ -3,12 +3,6 @@ layout: default
 title: Theoretical Foundations
 ---
 
-<br>
-
-<br>
-
-<br>
-
 ## Newtonian Gravity and Escape Velocity
 The concept of an object with gravity so strong that light cannot escape was first considered in the 18th century, well before Einstein's theory. Using Newtonian mechanics:
 
