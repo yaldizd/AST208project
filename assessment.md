@@ -3,7 +3,7 @@ layout: default
 title: Detection of Sagittarius A* Through Stellar Orbits
 ---
 
-## My assessment of the evidence
+# My assessment of the evidence
 
 It is not an easy thing to claim that a concept as strange and impossible-sounding as a black hole exists in the real world. Even though they were mathematically being studied as early as the 1910s, physicists took half a century to acknowledge that black holes could be real. Of course this realization was helped by the discovery of neutron stars in 1967 by Jocelyn Bell Burnell. As Wheeler (who coined the term "black hole") and Ruffini wrote in their 1971 paper "Introducing the Black Hole" [11],
 >The quasi-stellar object, the pulsar, the neutron star have all come onto the scene of physics within the space of a few years. Is the next entrant destined to be the black hole? If so, it is difficult to think of any development that could be of greater significance.
@@ -19,5 +19,6 @@ And finally when it comes to the Event Horizon Telescope, no one can deny that t
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <a href="/direct_imaging.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
   <a href="/sources.html" style="text-decoration: none; font-weight: bold;">Sources</a>
+</div>
 
 <br>
