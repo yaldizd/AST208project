@@ -3,12 +3,6 @@ layout: default
 title: Inferrence Using Gravitational Waves
 ---
 
-<br>
-
-<br>
-
-<br>
-
 # The Detection of Gravitational Waves Produced by Black Holes
 ## First LIGO Results
 On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time. The waves were produced by a binary black hole merger, the first one ever observed.
