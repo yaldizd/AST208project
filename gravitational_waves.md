@@ -21,7 +21,9 @@ $$
 
 Where $$f$$ is the frequency observed and $$\dot{f}$$ is its time derivative. The chirp mass $$\mathcal{M}$$ describes the evolution of a compact binary system. Fitting the frequency to Figure 3, a chirp mass of $$\mathcal{M} = 30 M_\odot$$ was obtained, which implies $$M = m_1 + m_2 > 70 M_\odot$$.
 
-The main benefit of having LIGO is that it offers a method of detection that is independent of light. While photons can be absorbed, reflected, or refracted; gravitational waves don't interact with matter as much. Therefore they can travel long distances without losing any information about the source of the event. We can have a second, more noise-free method of detection for deep space events thanks to LIGO.
+## Why do we have LIGO?
+
+The main benefit of building a gravitational wave observatory is that it offers a method of detection that is independent of light. While photons can be absorbed, reflected, or refracted; gravitational waves don't interact with matter as much. Therefore they can travel long distances without losing any information about the source of the event. We can have a second, more noise-free method of detection for deep space events thanks to LIGO.
 
 ## The Detectors
 
