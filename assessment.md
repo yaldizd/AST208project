@@ -16,7 +16,7 @@ And finally when it comes to the Event Horizon Telescope, no one can deny that t
 
 <br>
 
-<a href="/gravitational_waves.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
+<a href="/direct_imaging.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
 <a href="/sources.html" style="text-decoration: none; font-weight: bold;">Sources</a>
 
 <br>
