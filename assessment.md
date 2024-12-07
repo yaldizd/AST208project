@@ -12,7 +12,7 @@ Even though the X-ray source Cygnus X-1 was discovered in 1964, it took until th
 
 Similarly, LIGO is the collaboration of many great minds, primarily from Caltech and MIT. It took years of careful planning and incredibly precise engineering to build the observatory, and it amazes me that LIGO can detect a change that is a small fraction of the width of a single proton. These factors, combined with the massive peer reviewed paper from 2016 and the fact that black holes were completely accepted by that point tells me that we have come very far in this field, and there is no doubting the results of this research.
 
-And finally when it comes to the Event Horizon Telescope, no one can deny that this is the most publicly impressive part of black hole research. The reach of the results from the 2019 paper was incredible. And since it is direct observation, the photo is immediately understandable and believable. Since it has only imaged two different black holes so far, I'm excited for more results to come from EHT.
+And finally when it comes to the Event Horizon Telescope, no one can deny that this is the most publicly impressive part of black hole research. The reach of the results from the 2019 paper was incredible. And since it is direct observation, the photo is immediately understandable and believable. The telescope array itself, with a resolution of 25 microarcseconds, has been very reliable and productive. The EHT has taken images of black hole jets as well, advancing our knowledge in the effects of black holes on their galaxies. Since it has only imaged two different black holes so far, I'm excited for more results to come from EHT.
 
 <br>
 
