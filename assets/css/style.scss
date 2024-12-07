@@ -1,10 +1,10 @@
 ---
 ---
-@import "{{ site.theme }}";
 
+@import "just-the-docs/just-the-docs"; /* Import the styles from the Just the Docs theme */
 
+/* Custom styles */
 .scaled-image {
     width: 100px;
     height: auto; /* Keeps aspect ratio */
-
 }
