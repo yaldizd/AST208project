@@ -26,7 +26,7 @@ Continued EHT imaging over the next few years gave us an image of Sagittarius A*
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <a href="/gravitational_waves.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
-  <a href="/direct_imaging.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
+  <a href="/assessment.html" style="text-decoration: none; font-weight: bold;">&#8592; Previous Page</a>
 
 </div>
 
